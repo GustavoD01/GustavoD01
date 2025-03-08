@@ -1,9 +1,9 @@
 <div align="center">
+<h1 align="center">Olá 👋, Eu sou Gustavo Duarte</h1>
   <a href="https://rishavchanda.io">
     <img src="https://files.realpython.com/media/progress.6bd055d8dcc4.gif" alt="MasterHead" width="600">
   </a>
 </div>
-<h1 align="center">Olá 👋, Eu sou Gustavo Duarte</h1>
 <h3 align="center">Um desenvolvedor apaixonado por Dados</h3>
 
 <p style="margin-bottom: 10px;">🌱 Atualmente estou aprendendo <em>Python / SQL</em></p>
