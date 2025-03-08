@@ -13,7 +13,7 @@
 <p style="margin-bottom: 10px;">📚 Plataformas: Intellij, PyCharm e VsCode</p>
 <p style="margin-bottom: 10px;">🔄 Metodologias e Frameworks: Kanban e Scrum</p>
 <p style="margin-bottom: 0;">
-  <img src="https://komarev.com/ghpvc/?username=01gustavo01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=GustavoD01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
   <br>
   <br>
 </p>
