@@ -5,7 +5,7 @@
     <img src="https://files.realpython.com/media/progress.6bd055d8dcc4.gif" alt="MasterHead" width="600">
   </a>
 </div>
-
+  <br>
 <p style="margin-bottom: 10px;">🌱 Atualmente estou aprendendo <em>Python / SQL</em></p>
 <p style="margin-bottom: 10px;">👨‍💻 Portfólio <!--<a>AQUI</a>--></p>
 <p style="margin-bottom: 10px;">💬 Pergunte-me sobre <em>Dados</em></p>
