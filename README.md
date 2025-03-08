@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://media.giphy.com/media/y452vVKazzradfEhlm/giphy.gif" alt="MasterHead" width="600">
+    <img src="[https://media.giphy.com/media/y452vVKazzradfEhlm/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Frealpython.com%2Fpython-print%2F&psig=AOvVaw0uGliwoJgKhiNNiidbrJi0&ust=1741486740616000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKCq9ua1-YsDFQAAAAAdAAAAABB4)" alt="MasterHead" width="600">
   </a>
 </div>
 <h1 align="center">Olá 👋, Eu sou Gustavo Duarte</h1>
